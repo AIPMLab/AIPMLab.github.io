@@ -4,24 +4,13 @@ permalink: /publications/
 title: Publications
 description: 
 years: [2024, 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016]
-nav: false
+nav: true
 ---
 
 [[Google scholar](https://scholar.google.com/citations?user=huYbjzAAAAAJ&hl=en-EN)]
 
 #### Preprints
 
-
-
-#### Books
-
-<div class="publications">
-
-{% for y in page.years %}
-  {% bibliography -f books -q @*[year={{y}}]* %}
-{% endfor %}
-
-</div>
 
 #### Papers
 
