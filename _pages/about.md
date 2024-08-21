@@ -19,7 +19,7 @@ Guilin, China<br>
 wuyihang147258 [at] gmail.com, 2001630317 [at] mails.guet.edu.cn<br>
 [Google scholar](https://scholar.google.com/citations?user=huYbjzAAAAAJ&hl=en-EN)
 
-Mr. Yihang Wu is currently pursuing his master's degree at Guilin University of Electronic Technology, School of Artificial Intelligence, AIPM Lab, under the supervision of Prof. Dr. Ahmad Chaddad. His research interests include machine learning, federated learning, domain adaptation, medical image analysis, and vision language models. He has published 6 research papers (including 2 journals, 4 conferences) and one top conference paper pending publication (published in MICCAI 2024).
+Mr. Yihang Wu is currently pursuing his master's degree at Guilin University of Electronic Technology, School of Artificial Intelligence, AIPM Lab, under the supervision of Prof. Dr. Ahmad Chaddad. His research interests include machine learning, federated learning, domain adaptation, medical image analysis, and vision language models. He has published 6 research papers (including 2 journals, 4 conferences) and one top conference paper pending publication (accepted in MICCAI 2024).
 
 
 **Research interest:**
