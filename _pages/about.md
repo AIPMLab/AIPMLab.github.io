@@ -23,5 +23,5 @@ Mr. Yihang Wu is currently pursuing his master's degree at Guilin University of 
 
 
 **Research interest:**
-- Machine learning: I'm generally interested in designing algorithms and applications to make machine learning systems more robust, trustworthy, and responsible. Related topics include: robust machine learning, OOD / domain generalization, transfer learning, semi-supervised learning, federated learning, and related applications.
+- Machine learning: I'm generally interested in designing algorithms and applications to make machine learning systems more robust, trustworthy, and responsible. Related topics include: robust machine learning, OOD / domain adaptation, transfer learning, federated learning, and related applications.
 - Vision language models: We mainly focus on understanding the potential and limitation of vision language models, especially in federated learning context.
