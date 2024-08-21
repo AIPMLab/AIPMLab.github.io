@@ -14,7 +14,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Master Student, Lab for AIPM, Schoolf of Artificial Intelligence, GUET<br>
+Master Student, Laboratory for AIPM, Schoolf of Artificial Intelligence, GUET<br>
 Guilin, China<br>
 wuyihang147258 [at] gmail.com, 2001630317 [at] mails.guet.edu.cn<br>
 [Google scholar](https://scholar.google.com/citations?user=huYbjzAAAAAJ&hl=en-EN)
