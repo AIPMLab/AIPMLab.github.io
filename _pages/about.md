@@ -19,7 +19,7 @@ Building 2, No. 5 Danling Street, Haidian District, Beijing, China<br>
 jindongwang [at] outlook.com, jindong.wang [at] microsoft.com<br>
 [Google scholar](https://scholar.google.com/citations?&user=hBZ_tKsAAAAJ&view_op=list_works&sortby=pubdate) | [DBLP](https://dblp.org/pid/19/2969-1.html) | [Github](https://github.com/jindongwang) || [Twitter/X](https://twitter.com/jd92wang) | [Zhihu](https://www.zhihu.com/people/jindongwang) | [Wechat](http://jd92.wang/assets/img/wechat_public_account.jpg) | [Bilibili](https://space.bilibili.com/477087194) || [CV](https://go.jd92.wang/cv) [CV (Chinese)](https://go.jd92.wang/cvchinese)
 
-Mr. Yihang Wu is currently pursuing his master's degree at Guilin University of Electronic Technology, School of Artificial Intelligence, AIPM Lab, under the supervision of Prof. Dr. Ahmad Chaddad. His research interests include machine learning, federated learning, domain adaptation, medical image analysis, and vision language models. He has published 6 research papers (including 2 journals, 4 conferences) and one top conference paper pending publication (accepted in MICCAI 2024).
+Mr. Yihang Wu is currently pursuing his master's degree at Guilin University of Electronic Technology, School of Artificial Intelligence, AIPM Lab, under the supervision of Prof. Dr. Ahmad Chaddad. His research interests include machine learning, federated learning, domain adaptation, medical image analysis, and vision language models. He has published 7 research papers (including 2 journals, 5 conferences).
 
 
 **Research interest:** (See this [page](https://jd92.wang/research/) for more details)
