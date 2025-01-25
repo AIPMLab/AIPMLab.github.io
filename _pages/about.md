@@ -18,8 +18,14 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hello! I am currently a first-year Master’s student at the School of Artificial Intelligence, Guilin University of Electronic Technology, located in Guilin, China. Under the supervision of Dr. Ahmad Chaddad, my research focuses on cutting-edge topics such as **Federated Learning**, **Domain Adaptation**, **Vision-Language Models**, **Medical Image Analysis**, and **Computer Vision**.  
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I have contributed to several publications in reputable conferences and journals, including:  
+- **FACMIC** (Accepted at MICCAI 2024)  
+- **KD-FMV** (Accepted at AAAI 2025)  
+- **Federated Learning for Healthcare Applications** (Published in *IEEE Internet of Things Journal*)  
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I am passionate about advancing research in artificial intelligence and its applications in healthcare and beyond. If you are interested in collaboration or would like to discuss potential opportunities, feel free to reach out to me at:  
+**Email**: wuyihang147258@gmail.com / 2001630317@mails.guet.edu.cn  
+
+---
