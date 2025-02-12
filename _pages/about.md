@@ -23,9 +23,11 @@ Hello! I am currently a first-year Master’s student at the School of Artificia
 I have contributed to several publications in reputable conferences and journals, including:  
 - **FACMIC** (Accepted at MICCAI 2024)  
 - **KD-FMV** (Accepted at AAAI 2025)  
-- **Federated Learning for Healthcare Applications** (Published in *IEEE Internet of Things Journal*)  
+- **Federated Learning for Healthcare Applications** (Published in *IEEE Internet of Things Journal*)
 
-I am passionate about advancing research in artificial intelligence and its applications in healthcare and beyond. If you are interested in collaboration or would like to discuss potential opportunities, feel free to reach out to me at:  
+I have served as a reviewer for several conferences, including **IJCNN-2025 (main track)**, **SIGKDD-2025 (ADS track, Feb)**. I am motivated to contribute my efforts to the academic community.
+
+I look forward to finding collaborators, especially in the area of artificial intelligence and its applications in healthcare and beyond. If you are interested in collaboration or would like to discuss potential opportunities, feel free to reach out to me at:  
 **Email**: wuyihang147258@gmail.com / 2001630317@mails.guet.edu.cn  
 
 ---
