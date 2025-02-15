@@ -26,7 +26,8 @@ Under the supervision of **Dr. Ahmad Chaddad**, I’m diving deep into the fasci
 - **Domain Adaptation** 🔄  
 - **Vision-Language Models** 👁️🗨️  
 - **Medical Image Analysis** 🏥  
-- **Computer Vision** 👀    
+- **Computer Vision** 👀
+
 ---
 
 ### 🚀 Research & Publications  
@@ -44,7 +45,8 @@ I’ve been fortunate to contribute to several impactful projects (e.g., NSFC), 
 ### 🎯 Academic Contributions  
 I’m also actively involved in the academic community, serving as a reviewer for prestigious conferences:  
 - **IJCNN 2025** (Main Track)  
-- **SIGKDD 2025** (ADS Track, February Submission)  
+- **SIGKDD 2025** (ADS Track, February Submission)
+
 ---
 
 ### 🔍 Seeking PhD Opportunities  
