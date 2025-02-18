@@ -46,6 +46,7 @@ I’ve been fortunate to contribute to several impactful projects (e.g., NSFC), 
 I’m also actively involved in the academic community, serving as a reviewer for prestigious conferences:  
 - **IJCNN 2025** (Main Track)  
 - **SIGKDD 2025** (ADS Track, February Submission)
+- **MICCAI 2025** (Main Track)
 
 ---
 
