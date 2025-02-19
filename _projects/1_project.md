@@ -16,10 +16,9 @@ This project focuses on the deployment of federated learning (FL) systems in hea
 ### Proposals
 To solve these issues, we propose a novel feature attention module (FAM) as the communnication module for global aggregation, while freeze the deep models to save computation overhead. This FAM is a plug and play module that inserted after the deep model encoders. Furthermore, we introduced domain adaptation (DA) (i.e., local maximum mean discrepancies) to reduce the feature shifts among the clients. This adaptation is achieved by assuming there exist a public source domain data that can be used for feature adaptation.
 
+---
+
 ### Results
 The proposed approach demonstrated the superior performance compard to state-of-the-art methods. More details can be viewed in our publication: **FACMIC: Federated Adaptative CLIP Model for Medical Image Classification**.
 
-
-
-
-{% endraw %}
+---
