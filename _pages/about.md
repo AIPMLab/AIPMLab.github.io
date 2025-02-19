@@ -19,7 +19,7 @@ social: true # includes social icons at the bottom of the page
 ---
 
 ### 👋 Hello, World!  
-I’m **Yihang Wu**, a passionate first-year Master’s student at the **School of Artificial Intelligence, Guilin University of Electronic Technology**, nestled in the breathtaking city of Guilin, China. 🌄  
+I’m **Yihang Wu**, a first-year Master’s student at the **School of Artificial Intelligence, Guilin University of Electronic Technology**, nestled in the breathtaking city of Guilin, China. 🌄  
 
 Under the supervision of **Dr. Ahmad Chaddad**, I’m diving deep into the fascinating world of AI, focusing on cutting-edge research areas like:  
 - **Federated Learning** 🤖  
@@ -54,6 +54,13 @@ I’m also actively involved in the academic community, serving as a reviewer fo
 I’m currently on the lookout for **PhD opportunities** where I can further explore my research interests in **vision-language models**, **federated learning**, **domain adaptation**, and **medical image analysis**. I’m eager to collaborate with leading researchers and contribute to groundbreaking advancements in AI.  
 
 If you’re working on exciting projects in these areas, let’s connect! I’m always open to discussions, collaborations, or just geeking out about AI. 🤓  
+
+---
+
+### (●'◡'●) Applications and Awards  
+During my undergraduate, I got several awards such as **National scholarship for poverty students**, **First-rank scholarship in school of artificial intelligence**. 
+
+Also, I got **National college students innovation training project** (PI) in undergraduate, while I obtained **GUET innovation training project for master students** (PI) in master. 
 
 ---
 
