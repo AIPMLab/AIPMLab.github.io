@@ -35,7 +35,8 @@ I’ve been fortunate to contribute to several impactful projects (e.g., NSFC), 
 
 - **FACMIC** (Accepted at **MICCAI 2024**)  
 - **KD-FMV** (Accepted at **AAAI 2025**)  
-- **Federated Learning for Healthcare Applications** (Published in *IEEE Internet of Things Journal*)  
+- **Federated Learning for Healthcare Applications** (Published in *IEEE Internet of Things Journal*)
+- **FAA-CLIP: Federated Adversarial Adaptation of CLIP** (Published in *IEEE Internet of Things Journal*)  
 - **Simulations of Common Unsupervised Domain Adaptation Algorithms for Image Classification** (Published in *IEEE Transactions on Instrumentation and Measurement*)  
 - **Deep Modeling and Optimization of Medical Image Classification** (Accepted at *IEEE ISBI 2025*)  
 - **Semi-Supervised Medical Image Segmentation via Dual Networks** (Accepted at *IEEE ISBI 2025*)  
