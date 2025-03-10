@@ -46,7 +46,7 @@ I’ve been fortunate to contribute to several impactful projects (e.g., NSFC), 
 ### 🎯 Academic Contributions  
 I’m also actively involved in the academic community, serving as a reviewer for prestigious conferences and journals:  
 - Conferences: **IJCNN 2025** (Main Track); **SIGKDD 2025** (ADS Track, February Submission); **MICCAI 2025** (Main Track); **ICIC 2025** (PC Member);
-- Journals: **Information Fusion** (IF=14.8); **Pattern Recognition** (IF=7.5);
+- Journals: **Information Fusion** (IF=14.8); **Pattern Recognition** (IF=7.5); **IEEE Transactions on Information Forensics and Security** (IF=6.3)
 
 ---
 
