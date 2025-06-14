@@ -57,10 +57,17 @@ If you’re working on exciting projects in these areas, let’s connect! I’m 
 
 ---
 
-### (●'◡'●) Applications and Awards  
-During my undergraduate, I got several awards such as **National scholarship for poverty students**, **First-rank scholarship in school of artificial intelligence**. 
+### (●'◡'●) Applications and Awards 
 
-Also, I got **National college students innovation training project** (PI) in undergraduate, while I obtained **GUET innovation training project for master students** (PI) in master. 
+**Awards**
+
+1. **National scholarship for poverty students**
+2. **First-rank scholarship in school of artificial intelligence**
+3. **Academic Star** in GUET (i.e., top 10 from all master and phd students).
+
+**Applications**
+1. **National college students innovation training project (No. 202310595083)** (PI)
+2. **Innovation project of GUET graduate education (No. 2025YCXS244)** (PI)
 
 ---
 
