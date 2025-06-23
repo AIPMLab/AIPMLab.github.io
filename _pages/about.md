@@ -46,7 +46,7 @@ I’ve been fortunate to contribute to several impactful projects (e.g., NSFC), 
 ### 🎯 Academic Contributions  
 I’m also actively involved in the academic community, serving as a reviewer for prestigious conferences and journals:  
 - Conferences: **IJCNN 2025** (Main Track); **SIGKDD 2025** (ADS Track, February Submission, Excellent Reviewer, top 25%); **MICCAI 2025** (Main Track); **ICIC 2025** (PC Member); **ACM MM 2025** (Main Track)
-- Journals: **Information Fusion** (IF=14.8); **Pattern Recognition** (IF=7.5); **IEEE Transactions on Information Forensics and Security** (IF=6.3); **IEEE Transactions on Medical Imaging** (IF=9.8)
+- Journals: **Information Fusion** (IF=15.5); **Pattern Recognition** (IF=7.6); **IEEE Transactions on Information Forensics and Security** (IF=8); **IEEE Transactions on Medical Imaging** (IF=9.8)
 
 ---
 
@@ -57,7 +57,7 @@ If you’re working on exciting projects in these areas, let’s connect! I’m 
 
 ---
 
-### (●'◡'●) Applications and Awards 
+### (●'◡'●) Projects and Awards 
 
 **Awards**
 
@@ -65,7 +65,7 @@ If you’re working on exciting projects in these areas, let’s connect! I’m 
 2. **First-rank scholarship in school of artificial intelligence**
 3. **Academic Star** in GUET (i.e., top 10 from all master and phd students).
 
-**Applications**
+**Projects**
 1. **National college students innovation training project (No. 202310595083)** (PI)
 2. **Innovation project of GUET graduate education (No. 2025YCXS244)** (PI)
 
