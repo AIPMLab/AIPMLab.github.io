@@ -29,13 +29,13 @@ nav_order: 4
 
 | Year | Conference & Role | Notes |
 |---|---|---|
-| **2025** | 🌐 IJCNN (Main Track) | Regular paper |
-| **2025** | 🌐 SMC (Main Track) | Regular paper |
-| **2025** | 🔍 SIGKDD (ADS Track) | February round • **Top 25% reviewer** |
-| **2025** | 🏥 MICCAI (Main Track) | Medical imaging focus |
-| **2025** | 🏛️ ICIC | **PC Member** |
-| **2025** | 📹 ACM MM (Main Track) | Multimedia |
-| **2026** | 🔍 SIGKDD (ADS Track) | August round |
+| **2025** |  IJCNN (Main Track) | Regular paper |
+| **2025** |  SMC (Main Track) | Regular paper |
+| **2025** |  SIGKDD (ADS Track) | February round • **Top 25% reviewer** |
+| **2025** |  MICCAI (Main Track) | Medical imaging focus |
+| **2025** |  ICIC | **PC Member** |
+| **2025** |  ACM MM (Main Track) | Multimedia |
+| **2026** |  SIGKDD (ADS Track) | August round |
 
 ---
 
