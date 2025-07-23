@@ -45,7 +45,7 @@ I’ve been fortunate to contribute to several impactful projects (e.g., NSFC), 
 
 ### 🎯 Academic Contributions  
 I’m also actively involved in the academic community, serving as a reviewer for prestigious conferences and journals:  
-- Conferences: **IJCNN 2025** (Main Track); **SIGKDD 2025** (ADS Track, February Submission, Excellent Reviewer, top 25%); **MICCAI 2025** (Main Track); **ICIC 2025** (PC Member); **ACM MM 2025** (Main Track); **SIGKDD 2026** (ADS Track, August Submission); **AAAI 2026** (Main Track, Program committee)；
+- Conferences: **IJCNN 2025** (Main Track); **SIGKDD 2025** (ADS Track, February Submission, Excellent Reviewer, top 25%); **MICCAI 2025** (Main Track); **ICIC 2025** (PC Member); **ACM MM 2025** (Main Track, Datasets Track); **SIGKDD 2026** (ADS Track, August Submission); **AAAI 2026** (Main Track, Program committee)；
 - Journals: **Information Fusion** (IF=15.5); **Pattern Recognition** (IF=7.6); **IEEE Transactions on Information Forensics and Security** (IF=8); **IEEE Transactions on Medical Imaging** (IF=9.8); **Knowledge Based Systems** (IF=7.6); **IEEE Internet of Things Journal** (IF=8.9)
 
 ---
