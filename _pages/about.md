@@ -19,7 +19,7 @@ social: true # includes social icons at the bottom of the page
 ---
 
 ### 👋 Hello, World!  
-I’m **Yihang Wu**, a first-year Master’s student at the **School of Artificial Intelligence, Guilin University of Electronic Technology**, nestled in the breathtaking city of Guilin, China. 🌄  
+I’m **Yihang Wu**, a first-year Master’s student at the **School of Artificial Intelligence, Guilin University of Electronic Technology**, located in the breathtaking city of Guilin, China. 🌄  
 
 Under the supervision of **Dr. Ahmad Chaddad**, I’m diving deep into the fascinating world of AI, focusing on cutting-edge research areas like:  
 - **Federated Learning** 🤖  
@@ -33,19 +33,21 @@ Under the supervision of **Dr. Ahmad Chaddad**, I’m diving deep into the fasci
 ### 🚀 Research & Publications  
 I’ve been fortunate to contribute to several impactful projects (e.g., NSFC), resulting in publications in top-tier conferences and journals. Here are some highlights:  
 
-- **FACMIC** (Accepted at **MICCAI 2024**)  
-- **KD-FMV** (Accepted at **AAAI 2025**)  
+- **FACMIC** (Published in **MICCAI 2024**)  
+- **KD-FMV** (Published in **AAAI 2025**)  
 - **Federated Learning for Healthcare Applications** (Published in *IEEE Internet of Things Journal*)
 - **FAA-CLIP: Federated Adversarial Adaptation of CLIP** (Published in *IEEE Internet of Things Journal*)  
 - **Simulations of Common Unsupervised Domain Adaptation Algorithms for Image Classification** (Published in *IEEE Transactions on Instrumentation and Measurement*)  
-- **Deep Modeling and Optimization of Medical Image Classification** (Accepted at *IEEE ISBI 2025*)  
-- **Semi-Supervised Medical Image Segmentation via Dual Networks** (Accepted at *IEEE ISBI 2025*)  
+- **Deep Modeling and Optimization of Medical Image Classification** (Published in *IEEE ISBI 2025*)  
+- **Semi-Supervised Medical Image Segmentation via Dual Networks** (Published in *IEEE ISBI 2025*)
+- **Domain Adaptation Techniques for Natural and Medical Image Classification** (Accepted in *Information Sciences*) 
 
 ---
 
 ### 🎯 Academic Contributions  
 I’m also actively involved in the academic community, serving as a reviewer for prestigious conferences and journals:  
-- Conferences: **IJCNN 2025** (Main Track); **SIGKDD 2025** (ADS Track, February Submission, Excellent Reviewer, top 25%); **MICCAI 2025** (Main Track); **ICIC 2025** (PC Member); **ACM MM 2025** (Main Track, Datasets Track); **SIGKDD 2026** (ADS Track, August Submission); **AAAI 2026** (Main Track, AIA Track, Program committee)；
+- Conferences: **IJCNN 2025** (Main Track); **SIGKDD 2025** (ADS Track, February Submission, Excellent Reviewer, top 25%); **MICCAI 2025** (Main Track); **ICIC 2025** (PC Member); **ACM MM 2025** (Main Track, Datasets Track); **SIGKDD 2026** (ADS Track, August Submission); **AAAI 2026** (Main Track, AIA Track, Program committee); **WWW 2026** (Industrial Track, Program committee);
+  
 - Journals: **Information Fusion** (IF=15.5); **Pattern Recognition** (IF=7.6); **IEEE Transactions on Information Forensics and Security** (IF=8); **IEEE Transactions on Medical Imaging** (IF=9.8); **Knowledge Based Systems** (IF=7.6); **IEEE Internet of Things Journal** (IF=8.9)
 
 ---
